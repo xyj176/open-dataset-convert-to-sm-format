@@ -10,7 +10,12 @@
 - template.sda: 超图sda文件的模板文件
 
 
-# 2、使用
+# 2、样例数据
+
+链接：https://pan.baidu.com/s/18OAH8HrPtj7522X9z_wRzg 
+提取码：2tig
+
+# 3、使用
 
 将data文件夹下的zip压缩包解压到当前文件夹，然后在控制台执行下面的语句
 
