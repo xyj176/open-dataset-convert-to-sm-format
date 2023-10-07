@@ -1,0 +1,34 @@
+dataset:
+  name: train-supermap
+  data_type: general_change_detection
+  x_bandnum: 3
+  x_ext: tif
+  x_type: uint8
+  y_bandnum: 1
+  y_ext: png
+  y_type: uint8
+  tile_size: 1024
+  image_mean:
+  - 114.30112359550562
+  - 113.37303370786516
+  - 96.721348314606743
+  image_std:
+  - 52.111654830290838
+  - 48.966445928209467
+  - 45.185321687738941
+  image_count: 445
+  class_type:
+  - class_name: background
+    class_value: 0
+    pixel_count: 445203349
+    class_color:
+    - 0
+    - 0
+    - 0
+  - class_name: unspecified
+    class_value: 1
+    pixel_count: 21412341
+    class_color:
+    - 255
+    - 0
+    - 0
